@@ -1,4 +1,3 @@
 # TIL
-Today I Learned
 
-Good
+매일 배운 것을 정리하여 올립니다.
